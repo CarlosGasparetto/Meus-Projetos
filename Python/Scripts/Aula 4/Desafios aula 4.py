@@ -1,0 +1,11 @@
+nome = input('Qual é o Seu Nome?')
+print('Olá', nome, 'é um prazer conhecer você')
+dia = input('Em que dia você nasceu?')
+mes = input('Qual o mês?')
+ano = input('Qual o ano?')
+print('Você nasceu em: ',dia,'/',mes,'/',ano, 'correto?')
+
+a=input('digite um número')
+b=input('digite outro número')
+c=soma(a,b)
+print('O resultado é: ', c) 
